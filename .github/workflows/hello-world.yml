@@ -5,4 +5,4 @@ jobs:
     run-on: ubuntu-latest
     steps:
       - name: Print your name
-        run: echo "Hello World - Poovarasan!"
+        run: echo "Hello World - Poovarasan"
