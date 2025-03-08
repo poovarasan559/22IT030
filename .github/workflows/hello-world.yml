@@ -1,1 +1,8 @@
-
+name: hello-world-poovarasan
+on: push
+jobs:
+  my-job:
+    run-on: ubuntu-latest
+    steps:
+      - name: Print your name
+        run: echo "Hello World - Poovarasan!"
